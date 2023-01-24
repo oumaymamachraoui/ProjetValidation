@@ -1,0 +1,13 @@
+.descript {
+  text-align: left;
+}
+
+.card-div {
+  margin: 10px;
+}
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 50px;
+}
